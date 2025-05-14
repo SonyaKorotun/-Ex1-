@@ -1,0 +1,5 @@
+﻿  entry_point.cpp
+C:\Users\Rhapsodicmajor\source\repos\saod\ex6a\ex6a\Str.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Rhapsodicmajor\source\repos\saod\ex6a\ex6a\Str.h(23,16): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Rhapsodicmajor\source\repos\saod\ex6a\ex6a\Str.h(54,12): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ex6a.vcxproj -> C:\Users\Rhapsodicmajor\source\repos\saod\ex6a\x64\Debug\RefStrings.exe
