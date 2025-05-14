@@ -1,0 +1,7 @@
+﻿  SSCount.cpp
+C:\Users\Rhapsodicmajor\source\repos\saod\ex6\SSCount.cpp(19,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Rhapsodicmajor\source\repos\saod\ex6\SSCount.cpp(24,33): warning C4267: return: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  SSCount.vcxproj -> C:\Users\Rhapsodicmajor\source\repos\saod\ex6\x64\Debug\SSCount.exe
+  C:\Users\Rhapsodicmajor\source\repos\saod\ex6\lib\PF.dll
+  C:\Users\Rhapsodicmajor\source\repos\saod\ex6\lib\PF64.dll
+  Скопировано файлов: 2.
