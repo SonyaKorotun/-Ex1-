@@ -1,0 +1,4 @@
+﻿  MemoryTrick.cpp
+C:\Users\Rhapsodicmajor\source\repos\saod\Ex7\Ex7\MemoryTrick.cpp(8,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Rhapsodicmajor\source\repos\saod\Ex7\Ex7\MemoryTrick.cpp(13,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  Ex7.vcxproj -> C:\Users\Rhapsodicmajor\source\repos\saod\Ex7\x64\Debug\MemoryTrick.exe
